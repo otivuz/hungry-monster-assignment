@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+#title-full{
+    color: #363958;
+    font-weight: 700;
+}
+#title-monster{
+    color: #FA804C;
+}
+#search-btn{
+    color: white;
+    background-color: #F06C4E;
+}
+#searchDish{
+    background-color: #F8F7F5
+}
+.mealsImage{
+    width: 100%;
+}
+#errorMessage{
+    color:  #F06C4E;
+}
+.mealsName{
+    text-align: center;
+    margin-top: 10px;
+}
+.mealsCard{
+    border-radius: 10px;
+    background-color: #F8F7F5;
+    height: 100%;
+    overflow: hidden;
+    box-shadow:1px 3px 10px gray;
+}
+
+#dishDetail{
+    display: none;
+    margin-bottom: 15px;
+    background-color: #F8F7F5;
+    padding: 20px;
+    border-radius: 10px;
+}
+.dishimages{
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+}
+.dishTitle{
+    margin-top: 15px;
+    color: #363958;
+    font-weight: 600;
+}
+
+li{
+    font-size: large;
+}
+ul{
+    list-style-type:none;
+}
+.receipeDetails{
+    text-align: justify;
+}
+.icon-color{
+    color: #F06C4E;
+}
